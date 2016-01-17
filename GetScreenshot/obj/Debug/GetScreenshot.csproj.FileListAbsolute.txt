@@ -1,0 +1,9 @@
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\bin\Debug\GetScreenshot.exe.config
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\bin\Debug\GetScreenshot.exe
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\bin\Debug\GetScreenshot.pdb
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\obj\Debug\GetScreenshot.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\obj\Debug\GetScreenshot.Screnshot.resources
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\obj\Debug\GetScreenshot.Properties.Resources.resources
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\obj\Debug\GetScreenshot.csproj.GenerateResource.Cache
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\obj\Debug\GetScreenshot.exe
+c:\users\me\documents\visual studio 2015\Projects\GetScreenshot\GetScreenshot\obj\Debug\GetScreenshot.pdb
